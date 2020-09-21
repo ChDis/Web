@@ -1,0 +1,18 @@
+.tcentered{
+    text-align: center;
+}
+table, td{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 5px;
+    background-color: darkseagreen;
+}
+ul{
+    width: fit-content;
+    column-count: 4;
+    margin-left: auto;
+    margin-right: auto;
+}
