@@ -1,0 +1,31 @@
+.left{
+    text-align: center;
+    float: left;
+    width: 34%;
+    height: 600px;
+    background-color: #167080;
+    margin:10px;
+}
+.right{
+    text-align: center;
+    float: right;
+    width: 60%;
+    height: 500px;
+    margin: 10px;
+}
+.titles{
+    color: #CC864B;
+    background-color: #167080;
+    text-shadow: 2px 2px  black;
+}
+hr{
+    border-color: #CC864B;
+}
+pre{
+    font-size: 150%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.name{
+    text-align: center;
+    background-color: #CC864B;
+}
